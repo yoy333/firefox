@@ -79,10 +79,6 @@
     padding-inline: 0 !important;
 }
 
-#urlbar[breakout][breakout-extend] > #urlbar-background {
-    animation-name: none !important;
-    box-shadow: none !important;
-}
 #urlbar-background {
   box-shadow: none !important;
 }
