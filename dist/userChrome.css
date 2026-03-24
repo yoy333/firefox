@@ -38,6 +38,12 @@
   --mff-urlbar-results-font-weight: 700;
   --mff-urlbar-results-url-color: #98c1d9;
 }
+:root,
+:root[lwtheme]{
+  --urlbarView-highlight-background: #c4a7e7 !important;
+  --urlbarView-highlight-color: #393552 !important;
+}
+
 
 #back-button > .toolbarbutton-icon{
   --backbutton-background: transparent !important;
